@@ -1,2 +1,2 @@
 # Common_Algorithm
-Common structure&amp;algorithm
+常见的算法
